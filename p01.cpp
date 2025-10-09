@@ -1,3 +1,4 @@
+//Recursion in C++ is a programming technique where a function calls itself directly or indirectly to solve a problem.
 #include <iostream>
 using namespace std;
 
