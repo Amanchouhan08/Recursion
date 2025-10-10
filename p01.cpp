@@ -1,7 +1,6 @@
-//Recursion in C++ is a programming technique where a function calls itself directly or indirectly to solve a problem.
+//Factorial of a Number using Recursion.
 #include <iostream>
 using namespace std;
-
 // Function to calculate factorial using recursion
 int factorial(int n) {
     if (n == 0 || n == 1)   // Base case
