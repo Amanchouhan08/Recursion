@@ -15,3 +15,8 @@ int main() {
     cout << a << "^" << n << " = " << power(a, n);
 }
 
+/*
+output
+Enter base and power: 2 5
+2^5 = 32
+*/
