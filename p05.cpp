@@ -16,3 +16,9 @@ int main() {
     for (int i = 0; i < n; i++)
         cout << fibonacci(i) << " ";
 }
+
+/*
+output
+Enter number of terms: 6
+0 1 1 2 3 5
+*/
