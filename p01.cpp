@@ -8,7 +8,6 @@ int factorial(int n) {
     else                    // Recursive case
         return n * factorial(n - 1);
 }
-
 int main() {
     int num;
     cout << "Enter a number: ";
